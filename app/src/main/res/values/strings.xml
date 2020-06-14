@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">COVSAFE APP</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="google_maps_api">AIzaSyBmLJGCSaFg3aRZZDw5iNszEkHtpA2mtcw</string>
+</resources>
